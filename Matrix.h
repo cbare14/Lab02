@@ -1,6 +1,8 @@
 #if !defined MATRIX_H
 #define MATRIX_H
 
+//your comments for the commit 
+
 //the indices are not 0-based!!
 class Matrix
 {
