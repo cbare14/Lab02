@@ -5,8 +5,7 @@
 #include <string>
 using namespace std;
 
-//your comments for the commit
-
+//your comments for the commit 
 class Keyboard
 {
    private:
